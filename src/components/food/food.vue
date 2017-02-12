@@ -256,6 +256,10 @@
               color: rgb(147, 153, 159)
             .recommend
               margin-top: 6px
+              .icon-thumb_up
+                color: #00a0dc
+              .icon-thumb_down
+                color: #93999f
               .rating-content
                 display: inline
                 font-size: 12px
